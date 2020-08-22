@@ -1,0 +1,9 @@
+{
+  "cat1": {
+    "name": "Rose",
+    "breed": "Domestic House",
+    "imgUrl": "",
+    "cafeId": "",
+    "isNice": true
+  }
+}
